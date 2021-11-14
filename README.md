@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KickAss-Code96
+- 👋 Hi, I’m Osher
 - 👀 I’m interested in Code,bash and linux
 - 🌱 I’m currently learning Java,DevOps and Python.
 - 💞️ I’m looking to collaborate on coding
